@@ -44,7 +44,7 @@ void main()
             display_pqueue();
             break;
         case 4: 
-            exit(1);
+            exit(0);
         default: 
             printf("\nChoice is incorrect, Enter a correct choice");
         }
