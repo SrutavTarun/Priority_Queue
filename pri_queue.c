@@ -14,7 +14,7 @@ int front, rear;
  
 void main()
 {
-    int n;
+    int n, ch;
  
     printf("\n1 - Insert an element into queue");
     printf("\n2 - Delete an element from queue");
