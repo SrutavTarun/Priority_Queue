@@ -100,8 +100,8 @@ void check(int data)
 /* Function to delete an element from queue */
 void delete_by_priority(int data)
 {
-    
- 
+   
+int i;   
     if ((front==-1) && (rear==-1))
     {
         printf("\nQueue is empty no elements to delete");
